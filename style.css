@@ -1,0 +1,17 @@
+*{
+    background-color: black;
+    text-align: center;
+}
+
+img{
+    border: 5px solid white;
+}
+
+#texto{
+    color:white;
+    font-family: 'Libre Baskerville', serif;
+}
+
+div{
+    padding: 200px;
+}
